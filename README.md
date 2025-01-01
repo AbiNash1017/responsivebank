@@ -1,4 +1,4 @@
-```markdown
+
 # Responsive Bank
 
 Welcome to the **Responsive Bank** repository! This project is a responsive web application built using **React** and **Vite**, designed to provide a seamless banking experience across various devices. Below, you'll find all the necessary information to get started with the project.
